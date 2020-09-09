@@ -1,7 +1,7 @@
 # a = 10
 # b = 20
 list = (1, 2, 3, 4, 5)
-
+123
 # if (a in list):
 #     print "1 - 变量 a 在给定的列表中 list 中"
 # else:
